@@ -11,4 +11,11 @@
     "price":55,
     "description":"Albuterol is a 'rescue' or 'quick-relief' inhaler.Make sure you know how to use the inhaler properly. If you are not sure, ask your physician or pharmacist to show you. If after using the inhaler your symptoms do not improve, contact your physician for advice straightaway.The most common side-effect is feeling shaky. This should soon pass.Do not smoke. Smoking causes irritation to the lungs and will make your condition worse"
   },
+   {
+    "id":2,
+    "drugname":"Accolate",
+    "price":85,
+    "description":"Accolate® tablets were discontinued in the UK in March 2018. At the time of review there are no branded or generic products containing zafirlukast available in the UK. Zafirlukast may still be available in other countries. This medicine leaflet is based on medical information available in the UK at the time of writing and is left here for reference purposes. Please also refer to the manufacturer's information supplied with your medicine."
+  },
 ]
+
